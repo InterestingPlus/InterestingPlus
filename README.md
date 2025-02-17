@@ -29,15 +29,11 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [jatinporiya.epizy.com](jatinporiya.epizy.com)
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **poriyajatin914@gmail.com**
-
-- 📄 Know about my experiences [poriyajatin914@gmail.com](poriyajatin914@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jatin-poriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-poriya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jatin-poriya-8b6b7422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-poriya" height="30" width="40" /></a>
 <a href="https://instagram.com/jatin_poriya_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin_poriya_123" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/interesting plus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="interesting plus" height="30" width="40" /></a>
 </p>
